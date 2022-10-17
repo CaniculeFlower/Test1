@@ -6,11 +6,11 @@
   "cover": "http://ekladata.com/XuFl94KwT35rryen8IvQhy292uw.jpg",
   "chapters": {
     "1": {
-      "title": "1",
+      "title": "Épisode 01",
       "volume": "",
       "last_updated": "1666030053",
       "groups": {
-        "": "https://imgur.com/a/Me6fLHl"
+        "": "/proxy/api/imgur/chapter/Me6fLHl"
       }
     }
   }

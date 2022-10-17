@@ -3,22 +3,30 @@
   "description": "« Mais on est de la même famille... ». Su-Jung est la femme sexy et séduisante que tous les hommes désirent. Et Chang-Hyun n'arrive pas à la sortir de sa tête. Un désir insatiable brûle en lui et il n'arrive plus à le réprimer... ",
   "artist": "Yuja. C",
   "author": "Lee Hwon",
-  "cover": "http://ekladata.com/XuFl94KwT35rryen8IvQhy292uw.jpg",
+  "cover": "https://mangadex.org/covers/0c325aac-c089-49f8-9922-f78119155dd5/b96c0310-cd69-46a9-87a9-d65ee659a0fe.jpg",
   "chapters": {
     "1": {
       "title": "Épisode 01",
       "volume": "",
       "last_updated": "1666030053",
       "groups": {
-        "": "/proxy/api/imgur/chapter/Me6fLHl"
+        "Razmo's World": "/proxy/api/imgur/chapter/Me6fLHl"
       }
     },
     "2": {
-      "title": "2 - Épisode 02",
+      "title": "Épisode 02",
       "volume": "",
       "last_updated": "1666030746",
       "groups": {
-        "tes": "/proxy/api/imgur/chapter/lszEHlI"
+        "Razmo's World": "/proxy/api/imgur/chapter/lszEHlI"
+      }
+    },
+    "3": {
+      "title": "Épisode 03",
+      "volume": "",
+      "last_updated": "1666031009",
+      "groups": {
+        "Razmo's World": "/proxy/api/imgur/chapter/k8sWGaS"
       }
     }
   }
